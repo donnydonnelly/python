@@ -14,3 +14,6 @@ Two gradient descent implementations, one that performs simple gradient descent 
 
 ### lag_industry_returns.ipynb
 An analysis exploring the predictability of monthly industry returns using lagged returns with simple linear regression and lasso regression.
+
+### COC_CTD.ipynb
+Finds the CTD T-bond using cost-of-carry method for a U.S. T-Bond future. Only bonds with 15+ years to maturity are considered. Maturity dates are rounded to the nearest .25 years.
