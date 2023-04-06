@@ -19,4 +19,4 @@ An analysis exploring the predictability of monthly industry returns using lagge
 Finds the CTD T-bond using cost-of-carry method for a U.S. T-Bond future. Only bonds with 15+ years to maturity are considered. Maturity dates are rounded to the nearest .25 years.
 
 ### swaption_volatility_bootstrap.ipynb
-Given prices of ATM swaptions and yield curve, creates a swaption volatility surface 
+Given prices of ATM swaptions and yield curve, creates a swaption volatility surface.
